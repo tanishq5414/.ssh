@@ -1,0 +1,13 @@
+# Personal Github
+Host pers
+    Hostname github.com
+    User git
+    IdentityFile ~/.ssh/personal
+    IdentitiesOnly yes
+
+# Mittarv Github
+Host mittarv
+    Hostname github.com
+    User git
+    IdentityFile ~/.ssh/mittarv
+    IdentitiesOnly yes
